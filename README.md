@@ -596,6 +596,7 @@ Services to securely store your Docker images.
 - [Skipper](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository by [@Stratoscale](https://github.com/Stratoscale)
 - [SwarmCI](https://github.com/ghostsquad/swarmci) - Create a distributed, isolated task pipeline in your Docker Swarm.
 - [Watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers
+- [Kraken CI](https://kraken.ci) - Modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing. One of the executors is Docker.
 
 ### Development Environment
 
